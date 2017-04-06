@@ -1,1 +1,1 @@
-print("TEST GIT")
+print("TEST")
